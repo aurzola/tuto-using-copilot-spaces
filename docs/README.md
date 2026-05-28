@@ -1,4 +1,4 @@
-# OctoAcme Project Management Docs
+# OctoAcme Project Management Docs(r)
 
 Welcome! This README centralizes all key OctoAcme program/project management process documentation and serves as a friendly entry point for new teammates to quickly understand where to find and how to use these documents.
 
